@@ -1,7 +1,7 @@
 const CustomSoftware = () => {
     return (
         <div>
-            
+            Custome SOftware!
         </div>
     )
 }
